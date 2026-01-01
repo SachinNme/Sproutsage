@@ -1,0 +1,7 @@
+{
+  "name": "SproutSage: AI Gardening Assistant",
+  "description": "A comprehensive gardening companion that identifies plants from photos and provides expert care advice using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

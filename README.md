@@ -8,8 +8,9 @@
 
 
 
-#PROJET FOR THE ML AND DL
- As a college student my curiousity to learn new things about AI and coding make me push my own limits and iam giving all my input wwithout knowing the outcomes 
+# PROJET FOR THE ML AND DL
+
+As a college student my curiousity to learn new things about AI and coding make me push my own limits and iam giving all my input wwithout knowing the outcomes 
  
 
 # Run and deploy your AI Studio app

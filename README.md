@@ -11,13 +11,8 @@
 # PROJET FOR THE ML AND DL
 
 As a college student my curiousity to learn new things about AI and coding make me push my own limits and iam giving all my input wwithout knowing the outcomes 
+
  
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1fgAQp0R1w-K_YJ2c-S8Tr0db0a7pL20r
 
 ## Run Locally
 

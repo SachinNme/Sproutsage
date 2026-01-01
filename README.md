@@ -1,8 +1,16 @@
-<div align="center">
-  <img width="1200" height="475" alt="GHBanner"
-       src="https://github.com/USERNAME/REPO_NAME/raw/main/new-banner.png" />
-</div>
 
+<img width="1240" height="744" alt="Screenshot 2026-01-01 080132" src="https://github.com/user-attachments/assets/1c75be3c-39a5-4d75-be15-aa259f4e065b" />
+
+#APP ICON
+
+<img width="300" height="175" alt="Screenshot 2026-01-01 080250" src="https://github.com/user-attachments/assets/c757cfe3-f490-4f21-add6-976def31c66d" />
+
+
+
+
+#PROJET FOR THE ML AND DL
+ As a college student my curiousity to learn new things about AI and coding make me push my own limits and iam giving all my input wwithout knowing the outcomes 
+ 
 
 # Run and deploy your AI Studio app
 
